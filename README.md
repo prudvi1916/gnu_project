@@ -10,7 +10,7 @@
 
 ## Overview
 
-Welcome to the repository dedicated to the comprehensive development of various communication techniques using GNU Radio Companion on Ubuntu, within an Oracle VM VirtualBox environment.
+This GNU Radio project integrates digital transmission techniques with advanced image processing capabilities. Utilizing the GR Paint module, it implements image transformations such as flipping, repeating, brightness inversion, enhancement, and ITU-R BT.709 color standard application. Additionally, Spectrum Painter is employed for signal spectrum visualization. The project showcases the integration of digital communication and image processing within a unified GNU Radio framework, demonstrating both robust data transmission and sophisticated image manipulations.
 
 
 ![gnu](https://github.com/prudvi1916/GNU_Radio_Comms_Dev/assets/133519386/2882ba1b-903e-4d32-ab7b-0f0adc2ff029)
@@ -22,12 +22,7 @@ This project is conducted under the guidance of **T. Nagarjuna** at the **NextGe
 
 ## Repository Contents
 
-This repository includes various scripts, configuration files, and documentation necessary for developing and simulating communication techniques. The primary focus areas include:
-
-- **Analog Communication**: Design and analysis of analog communication systems.
-- **Digital Communication**: Implementation and testing of digital communication protocols.
-- **Optical Communication**: Development and simulation of optical communication systems.
-- **4G Communication**: Development and simulation of 4G LTE techniques and protocols.
+Developed a comprehensive GNU Radio project integrating digital transmission techniques with advanced image processing capabilities. Utilized the GR Paint module to implement image transformations such as flipping, repeating, brightness inversion, enhancement, and ITU-R BT.709 color standard application. Additionally, employed Spectrum Painter for signal spectrum visualization, combining robust digital communication and image processing within a unified GNU Radio framework.
 
 ## Getting Started
 
