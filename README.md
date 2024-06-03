@@ -6,7 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/prudvi-reddy-poli-3b2430237/)
 
-# Comprehensive Development of Communication Techniques with GNU Radio Companion
+# Digital Transmission and OFDM Implementation with Advanced Image Processing Using GNU Radio
 
 ## Overview
 
